@@ -29,10 +29,7 @@ The project uses a dataset of 1,200 simulated student records to demonstrate dat
 - Students who participated in tutoring had an 11.53-percentage-point higher transfer rate.
 - The logistic regression model achieved **75.42% accuracy** on the synthetic test dataset.
 
-## Limitations
-
-The dataset is synthetically generated for educational purposes. The findings demonstrate statistical relationships within the generated data and should not be interpreted as real-world transfer outcomes or evidence of causation.
 
 ## Project Development
 
-This project was developed as an independent learning exercise applying concepts from introductory Data Science coursework. AI assistance was used to support code development, debugging, and exploration of machine learning methods.
+This project was developed as an independent learning exercise applying concepts from introductory Data Science coursework. AI was used to support code development and debugging.
